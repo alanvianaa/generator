@@ -3,7 +3,7 @@
         <div>
             <Menubar></Menubar>
         </div>
-        <div class="container">
+        <main role="main" class="container">
             <div class="row justify-content-md-center">
                 <div class="col-md-auto">
                     <div class="text-center">
@@ -87,7 +87,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </main>
     </div>
 </template>
 <script>
